@@ -1,1 +1,1 @@
-# Web_Tech_Task_2
+# CRUD_News_Blog
